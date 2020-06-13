@@ -8,4 +8,4 @@ function pangramChecker(input) {
     : `This is not a pangram. Missing letters are ${missingLetters}`;
 
 }
-pangramChecker('fdshfs');
+
