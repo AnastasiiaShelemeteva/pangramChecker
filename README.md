@@ -1,7 +1,9 @@
 # pangramChecker
 Pangram is a sentence using every letter of a given alphabet (English in our case) at least once. For example: The five boxing wizards jump quickly.
 
-This script will help you to find out, if your sentence is a pangram or not. If not, it will show you all letters that are missing. 
+This script will help you to find out, if your sentence is a pangram or not. If not, it will show you all letters that are missing.
+
+
 
 To run the code, you have to call the function pangramChecker (by writing its name) and write the sentence you want to prove in the parameter (in brackets) using the quote marks (it could be double or single quotes, but make sure, that you use only one type). For example: pangramChecker (“Is this a pangram?”). 
 
