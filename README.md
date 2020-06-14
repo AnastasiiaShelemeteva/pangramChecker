@@ -1,4 +1,6 @@
 # pangramChecker
+written in JavaScript
+
 Pangram is a sentence using every letter of a given alphabet (English in our case) at least once. For example: The five boxing wizards jump quickly.
 
 This script will help you to find out, if your sentence is a pangram or not. If not, it will show you all letters that are missing.
